@@ -10,29 +10,29 @@ Currently, the dataset contains 153 files in 11 folders, categorized by the titl
 
 📂 Directory Structure
 
-•All resources are named after the calligraphy works, including:
+All resources are named after the calligraphy works, including:
 
-•Dongfang Shuo Huazan (Portrait Eulogy of Dongfang Shuo) 
+• Dongfang Shuo Huazan (Portrait Eulogy of Dongfang Shuo) 
 
-•Yuan Cishan Bei (Stele of Yuan Cishan) 
+• Yuan Cishan Bei (Stele of Yuan Cishan) 
 
-•Baguangzhai Hui Baode Ji (Record of the Baode Assembly at Baguangzhai)
+• Baguangzhai Hui Baode Ji (Record of the Baode Assembly at Baguangzhai)
 
-•Qinli Bei (Stele of Yan Qinli) Regular Script 
+• Qinli Bei (Stele of Yan Qinli) Regular Script 
 
-•Duobao Ta Bei (Stele of the Multi-Treasure Pagoda)
+• Duobao Ta Bei (Stele of the Multi-Treasure Pagoda)
 
-•Da Tang Zhongxing Song (Ode to the Restoration of the Great Tang) 
+• Da Tang Zhongxing Song (Ode to the Restoration of the Great Tang) 
 
-•Fangsheng Chi Bei (Stele of the Release Pond) 
+• Fangsheng Chi Bei (Stele of the Release Pond) 
 
-•Li Xuanjing Bei (Stele of Li Xuanjing) 
+• Li Xuanjing Bei (Stele of Li Xuanjing) 
 
-•Qingyuan Daoshi Shi (Poem of the Qingyuan Taoist) 
+• Qingyuan Daoshi Shi (Poem of the Qingyuan Taoist) 
 
-•Wang Lin Muzhi (Epitaph of Wang Lin) 
+• Wang Lin Muzhi (Epitaph of Wang Lin) 
 
-•Zhushan Tang Lianju (Linked Verses from Zhushan Hall) 
+• Zhushan Tang Lianju (Linked Verses from Zhushan Hall) 
 
 (Note: The above is only a partial list of files. Please check the repository directory for the complete content.)
 
